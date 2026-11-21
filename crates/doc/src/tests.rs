@@ -1022,6 +1022,7 @@ fn errors_are_reported_not_fatal() {
             angle2: None,
             symmetric: false,
             convention: Default::default(),
+            join_profile_arcs: false,
             to: None,
         },
         None,
